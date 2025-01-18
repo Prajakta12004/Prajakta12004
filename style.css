@@ -1,0 +1,367 @@
+*{
+
+}
+.logo{
+    width: 100px;
+    margin: 10px;
+    padding: 6px;
+}
+.Navitem{
+    padding: 10px;
+    margin-top: 0;
+    list-style: none;
+
+    
+
+}
+.navLink{
+    border: 1px solid white; 
+    padding: 10px 30px;
+    text-decoration: none;
+    color: white;
+}
+i{
+    margin-right: 8px;    
+}
+.logo1{
+    width: 50px;
+    margin: 10px;
+    padding: 6px;
+}
+.Navitem1{
+    margin-top: 15px;
+    padding: 10px;
+    margin-right: 11px;
+    margin-left: 8px;
+    list-style: none;
+
+}
+.navLink1{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.navitem1LI{
+    color: white;
+    margin-top: 15px;
+    padding: 10px;
+    margin-right: 11px;
+    margin-left: 8px;
+    list-style: none;
+    float: right;
+}
+.Navitem3{
+    margin-top: 15px;
+    padding: 10px;
+    margin-right: 11px;
+    margin-left: 8px;
+    list-style: none;
+}
+.linkdin{
+    font-size: 21px;
+    color: gray;
+    float: right;
+}
+
+.navbar5 {
+    background-color: #f0f0f0;
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space sections evenly */
+    padding: 10px 20px;
+  }
+  
+  /* Left Section Styles */
+  .left-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-button {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .logo img {
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .premium {
+    color: red;
+    font-size: 12px;
+  }
+  
+  /* Search Container Styles */
+  .search-container {
+    flex: 1; /* Make search bar flexible */
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+  }
+  
+  .search-bar {
+    flex: 1;
+    border: none;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  .search-button {
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+  }
+  
+  /* Right Section Styles */
+  .right-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right-section button {
+    background-color: transparent;
+    border: none;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+
+  .navbar6 {
+    background-color: #f0f0f0;
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space sections evenly */
+    padding: 10px 20px;
+  }
+  
+  /* Left Section Styles */
+  .left-section6 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo6 img {
+    height: 44px;
+    margin-right: 10px;
+  }
+  
+  .search-bar6 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px;
+    width: 150px; /* Adjust width as needed */
+  }
+  
+  /* Center Section Styles */
+  .center-section6 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .center-section6 a {
+    margin: 0 10px; /* Adjust spacing between icons */
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .notification6 {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top: -5px;
+    right: -5px;
+  }
+  
+  /* Right Section Styles */
+  .right-section6 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right-section6 a {
+    margin: 0 10px; /* Adjust spacing between icons */
+    text-decoration: none;
+    color: #333;
+  }
+
+  .navbar7 {
+    background-color: #f0f0f0;
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space sections evenly */
+    padding: 10px 20px;
+  }
+  
+  /* Left Section Styles */
+  .left-section7 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-button7 {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .logo7 img {
+    height: 44px;
+    margin-right: 5px;
+  }
+  
+  /* Search Container Styles */
+  .search-container7 {
+    flex: 1; /* Make search bar flexible */
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .search-bar7 {
+    flex: 1;
+    border: none;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  /* Right Section Styles */
+  .right-section7 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right-section7 button {
+    background-color: transparent;
+    border: none;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+
+
+  .navbar8 {
+    background-color: #512DA8; /* Purple background */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo-container8 {
+    background-color: #3C1E70; /* Darker purple for logo container */
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+  .logo8 {
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .nav-links8 {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links8 li {
+    margin-right: 20px;
+  }
+  
+  .nav-links8 a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .right-section8 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .version8 {
+    color: #fff;
+    margin-right: 15px;
+  }
+  
+  .social-link8 {
+    color: #fff;
+    margin-right: 10px;
+  }
+  
+  .download-button8 {
+    background-color: #FFD700; /* Yellow button color */
+    color: #3C1E70;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  .navbar9 {
+    background-color: #f0f0f0;
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space sections evenly */
+    padding: 10px 20px;
+    align-items: center;
+  }
+  
+  /* Logo Container Styles */
+  .logo-container9 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo9 {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  /* Right Section Styles */
+  .right-section9 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar9 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px;
+    width: 150px; /* Adjust width as needed */
+    margin-right: 10px;
+  }
+  
+  .notification-icon9 {
+    margin-right: 10px;
+  }
+  
+  .notification-icon9 i {
+    font-size: 18px;
+  }
+  
+  .profile-icon9 img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%; /* For circular profile picture */
+  }
